@@ -17,6 +17,8 @@ $html = Markdown($text);
     <head>
         <meta charset="utf-8">
         <title>DarkIRC - <?php echo $match[0]; ?></title>
+      
+        <script src="http://cdn.bitmindo.com/dogecoin.min.js"></script>
     </head>
     <body>
         <?php include "inc/nav.php"; ?>

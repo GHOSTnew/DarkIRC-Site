@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: http://darkirc.net46.net/sitemap.xml

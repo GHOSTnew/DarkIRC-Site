@@ -1,7 +1,6 @@
 ##Téléchargements
 
-*	__Client:__ *A venir* ^^
-*       __Applet:__ *A venir* ^^
+*	__Client:__ [Beta disponible](http://rapidshare.com/share/8CF549DF5DBBE82A9040ED3E5A13A053)
 *       __Android:__ *Stade de simple idée*
 
 -----------
